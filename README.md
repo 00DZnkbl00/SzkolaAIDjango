@@ -5,3 +5,5 @@ Oraz screeny z 2 zajęć (djangoAI)
 ## Wykonał
 Dawid Zdrojewski 69583
 gdx160238@student.gdansk.merito.pl
+
+## Życze udanych wakacji
