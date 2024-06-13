@@ -14,11 +14,6 @@ Wymagania:
 python -m venv .venv
 ```
 
-## Aktywacja zmiennej środowiskowej (Windows) 
-### Założenie - pracuje na CMDER
-```sh
-.venv/Scripts/activate
-```
 ### Założenie - pracuje na gitbash
 ```sh
 source .venv\Scripts\activate
@@ -43,3 +38,13 @@ pip install -r requirements.txt
 ```sh
 python manage.py runserver
 ```
+
+## Migracje
+```sh
+ python manage.py makemigrations
+```
+```sh
+python manage.py migrate
+```
+
+### admin zaq1@WSX
